@@ -1,0 +1,31 @@
+{
+  "name": "youtube-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nandakumar-Nandhi/Youtube-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nandakumar-Nandhi/Youtube-testing/issues"
+  },
+  "homepage": "https://github.com/Nandakumar-Nandhi/Youtube-testing#readme",
+  "devDependencies": {
+    "jasmine-core": "^4.6.0",
+    "karma": "^6.4.1",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-coverage": "^2.2.0",
+    "karma-jasmine": "^5.1.0"
+  }
+}
